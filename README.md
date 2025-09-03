@@ -5,6 +5,7 @@
 📊 Experiência em análise de dados e processos no e-commerce  
 🚀 Buscando oportunidades para contribuir em projetos desafiadores  
 
+
 ---
 
 ## 🔧 Tecnologias que estou estudando
@@ -12,10 +13,12 @@
 - Banco de Dados: MySQL, MariaDB
 - Ferramentas: Git, GitHub, MySQL Workbench, XAMPP
 
+
 ---
 
 ## 📈 Estatísticas do GitHub
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiogfe&show_icons=true&theme=dracula)
+
 
 ---
 
