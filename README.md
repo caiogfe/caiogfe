@@ -15,7 +15,7 @@
 ---
 
 ## 📈 Estatísticas do GitHub
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiogfe&show_icons=true&theme=dracula)
 
 ---
 
