@@ -1,7 +1,7 @@
 # <h2 align="center">👋 Olá, eu sou o Caio! </h2>
 
 <p align="center">
-  <ul>
+  <ul align="center">
     <li>🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
     <li>💻 Foco em **desenvolvimento Back-end** (PHP, MySQL, etc.)  
     <li>📊 Experiência em análise de dados e processos no e-commerce  
